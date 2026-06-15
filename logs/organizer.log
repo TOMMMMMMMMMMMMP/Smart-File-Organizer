@@ -9,3 +9,11 @@
 2026-06-15 11:25:07 | INFO | UNDO  | test_folder\Audio\song.mp3 \u2192 test_folder\song.mp3
 2026-06-15 11:25:07 | INFO | UNDO  | test_folder\Images\photo.jpg \u2192 test_folder\photo.jpg
 2026-06-15 11:25:07 | INFO | UNDO  | test_folder\Documents\document.pdf \u2192 test_folder\document.pdf
+2026-06-15 11:28:52 | INFO | MOVED | C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\archive.zip \u2192 C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Archives\archive.zip
+2026-06-15 11:28:52 | INFO | MOVED | C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\document.pdf \u2192 C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Documents\document.pdf
+2026-06-15 11:28:52 | INFO | MOVED | C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\photo.jpg \u2192 C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Images\photo.jpg
+2026-06-15 11:28:52 | INFO | MOVED | C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\song.mp3 \u2192 C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Audio\song.mp3
+2026-06-15 11:30:24 | INFO | UNDO  | C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Audio\song.mp3 \u2192 C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\song.mp3
+2026-06-15 11:30:24 | INFO | UNDO  | C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Images\photo.jpg \u2192 C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\photo.jpg
+2026-06-15 11:30:24 | INFO | UNDO  | C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Documents\document.pdf \u2192 C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\document.pdf
+2026-06-15 11:30:24 | INFO | UNDO  | C:/Users/ponce/Desktop/new/Smart-File-Organizer/test_folder\Archives\archive.zip \u2192 C:\Users\ponce\Desktop\new\Smart-File-Organizer\test_folder\archive.zip
