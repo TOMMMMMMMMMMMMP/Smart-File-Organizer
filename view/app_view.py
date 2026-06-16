@@ -59,6 +59,9 @@ class AppView(tk.Tk):
         if error:
             messagebox.showerror("Error", error)
             return
+        if not moved:
+            messagebox.showinfo("Info", "No files to organize.")
+            return
         for item in moved:
             filename = item.source.split("\\")[-1]
             self._append_log(f"Moved: {filename}  →  {item.category}/")
